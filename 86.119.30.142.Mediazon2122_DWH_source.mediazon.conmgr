@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="86.119.30.142.Mediazon2122_DWH_source.mediazon"
+  DTS:DTSID="{601DF7F8-40D6-4D58-9EAC-F5CB5B13ED01}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=86.119.30.142;User ID=mediazon;Initial Catalog=Mediazon2122_DWH_source;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtSWD2FZarUGdV3Z71rGTiQAAAAACAAAAAAAQZgAAAAEAACAAAADxLv/LCq9tDq8x/NyXKnvcpKEgE59n4yN8RxLVo5Ry8gAAAAAOgAAAAAIAACAAAACPVM27lxvZCbvV/rAwHvw7omno0ijtPUwRk3fL0RETnoAAAAAmSXR1vwfCUshigtVDoyE1Wp2E3n1T5UxxfM/3FyNOP+gp666+x4EzPGtXfJ20cNWiOIf/BA0CAEh7BxATHfFZrLqbqpR+u3p37WMv16K/zRVOpAKIfWx8HNrLJJPvPoxvheWslk/1cQQgrTCRgnGnr09qrqfLVgB/XIpTrEY0TUAAAABf0xEuc5cRIYjOOjjqie0RqATRLgWu8q4zA+6Uiw3mvi2lhP016OGjgIzYpJuGEIpNODwSsvy/wZnDxnuRSDdj</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
